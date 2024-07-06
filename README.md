@@ -65,7 +65,7 @@ We thank all the authors for sharing great codes or datasets.
 ```
 @inproceedings{jiaxu2023learning,
   title={Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation},
-  author={Jiaxu, WANG and Zhang, Ziyi and Xu, Renjing},
+  author={Wang, Jiaxu and Zhang, Ziyi and Xu, Renjing},
   booktitle={The Twelfth International Conference on Learning Representations},
   year={2024}
 }
